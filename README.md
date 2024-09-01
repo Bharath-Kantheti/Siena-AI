@@ -16,6 +16,8 @@ This repository contains the code and resources for training and evaluating a cu
 - [Authors](#authors)
 - [License](#license)
 
+## Hugging Face link - https://huggingface.co/BharathBOLT/5class_sentimentClassifier
+
 ## Project Structure
 
 ```plaintext
