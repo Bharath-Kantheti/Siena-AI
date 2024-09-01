@@ -27,7 +27,9 @@ project-root/
 │   └── validation_data.csv            # Generated validation dataset
 │
 ├── models/
-│   └── sentiment_model/               # Directory for storing the trained model and tokenizer
+│   └── model/                         # Directory for storing the trained model and tokenizer
+│   └── model1/                        # Directory for storing the trained model and tokenizer
+│   └── model2/                        # Directory for storing the trained model and tokenizer
 │
 ├── notebooks/
 │   ├── data_generation.ipynb          # Notebook for generating synthetic data
@@ -42,7 +44,8 @@ project-root/
 │
 ├── docs/
 │   ├── deployment_considerations.md   # Document discussing deployment considerations
-│   └── optimization_report.md         # (Optional) Document outlining any model optimizations
+│   └── optimization_report.md         # Document outlining any model optimizations
+│   └── how_to_setup       .md         # Document to setup
 │
 ├── README.md                          # Instructions for installation, running, and testing
 ├── requirements.txt                   # List of dependencies (e.g., transformers, pandas)
