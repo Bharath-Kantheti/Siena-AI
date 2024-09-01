@@ -1,0 +1,7 @@
+
+### Key Additions:
+
+- **Model Variations**: Added sections describing the three different models—Model 1 (baseline), Model 2 (adjusted learning rate), and Model 3 (using XLNet). This includes instructions on how to modify the code to switch between models.
+- **Specific Instructions for Model 3**: Detailed the changes needed to run Model 3, which uses `XLNet` instead of `BERT`.
+
+This `README.md` provides clear and detailed instructions for replicating and understanding each step of the project, ensuring that users can easily navigate the different model configurations.
